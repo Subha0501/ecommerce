@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Kanjivaram Silk Saree",
+    "category": "Dresses",
+    "subcategory": "Sarees",
+    "type": "Silk",
+    "price": 12000,
+    "description": "Traditional Kanjivaram silk saree, rich zari work.",
+    "image": "https://via.placeholder.com/300x300.png?text=Kanjivaram+Silk"
+  },
+  {
+    "id": 2,
+    "name": "Cotton Saree - Floral",
+    "category": "Dresses",
+    "subcategory": "Sarees",
+    "type": "Cotton",
+    "price": 2500,
+    "description": "Lightweight cotton saree with floral print.",
+    "image": "https://via.placeholder.com/300x300.png?text=Cotton+Saree"
+  },
+  {
+    "id": 3,
+    "name": "Chiffon Party Saree",
+    "category": "Dresses",
+    "subcategory": "Sarees",
+    "type": "Chiffon",
+    "price": 3500,
+    "description": "Flowy chiffon saree for evening parties.",
+    "image": "https://via.placeholder.com/300x300.png?text=Chiffon+Saree"
+  },
+  {
+    "id": 4,
+    "name": "Western Denim Dress",
+    "category": "Dresses",
+    "subcategory": "Western",
+    "type": "Dress",
+    "price": 1800,
+    "description": "Casual western denim dress.",
+    "image": "https://via.placeholder.com/300x300.png?text=Denim+Dress"
+  },
+  {
+    "id": 5,
+    "name": "Western Summer Dress",
+    "category": "Dresses",
+    "subcategory": "Western",
+    "type": "Dress",
+    "price": 1500,
+    "description": "Light cotton summer dress.",
+    "image": "https://via.placeholder.com/300x300.png?text=Summer+Dress"
+  }
+]
